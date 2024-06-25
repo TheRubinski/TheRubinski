@@ -1,6 +1,6 @@
 ### 👋 Hello there 
 
-#### I'm Ruben. Here you can take a look into my most recent Projects.
+#### I'm Ruben. There's not much to show here, but feel free to take a look.
 
 - 🌱 I'm interested in Visual Computing, Data Science and a lot more
 - 📖 I recently completed my second Bachelor's degree. In computer science.
